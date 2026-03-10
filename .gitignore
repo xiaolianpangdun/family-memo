@@ -1,0 +1,8 @@
+# 通用忽略规则
+node_modules/
+dist/
+build/
+*.log
+.env
+.DS_Store
+
